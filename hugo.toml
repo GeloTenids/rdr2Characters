@@ -1,0 +1,21 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Red Dead Redemption 2'
+theme = 'hugo-theme-itheme'
+
+
+[params]
+  defaultCover = '/images/icon.png'
+  email = 'Dutch@gmail.com'
+  [[params.socialMedia]]
+    name = 'Facebook'
+    url = 'https://Facebook.com/'
+  [[params.socialMedia]]
+    name = 'Twitter'
+    url = 'https://twitter.com/'
+  [[params.blogroll]]
+    name = 'GTA SA'
+    url = 'https://yufengbiji.com/'
+  [[params.blogroll]]
+    name = 'GTA V'
+    url = 'https://apple.com/'

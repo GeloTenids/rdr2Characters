@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Member on Red Dead Redemption 2</title>
+    <link>//localhost:1313/tags/member/</link>
+    <description>Recent content in Member on Red Dead Redemption 2</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jan 2025 08:59:09 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/member/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sadie Adler</title>
+      <link>//localhost:1313/posts/sadie-adler/</link>
+      <pubDate>Tue, 14 Jan 2025 08:59:09 +0800</pubDate>
+      <guid>//localhost:1313/posts/sadie-adler/</guid>
+      <description>&lt;p&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;figure class=&#34;image component image-fullbleed body-copy-wide nr-scroll-animation nr-scroll-animation--on image-big&#34;&gt;  &lt;div class=&#34;component-content&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;image-sharesheet&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;image image-load image-asset image-2f88e4bc6c26c00de443c1b42f894b2f&#34; id=&#34;lht2f88e4bc6c26c00de443c1b42f894b2f&#34;&gt;&#xD;&#xA;        &lt;picture  class=&#34;picture&#34;&gt;&#xD;&#xA;          &lt;img class=&#34;picture-image&#34; data-src=&#34;//localhost:1313/images/sadieSmol.jpg&#34; alt=&#34;&#34;  /&gt;&#xD;&#xA;        &lt;/picture&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;image-description&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;image-caption&#34;&gt;&#xD;&#xA;        &#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/figure&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;FUCKIN O&amp;rsquo;DRISCOLLS&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Micah Bell</title>
+      <link>//localhost:1313/posts/micah-bell/</link>
+      <pubDate>Tue, 14 Jan 2025 08:59:08 +0800</pubDate>
+      <guid>//localhost:1313/posts/micah-bell/</guid>
+      <description>&lt;p&gt;DAMN RAT&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Charles Smith</title>
+      <link>//localhost:1313/posts/charles-smith/</link>
+      <pubDate>Tue, 14 Jan 2025 08:59:07 +0800</pubDate>
+      <guid>//localhost:1313/posts/charles-smith/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Red Dead Redemption 2</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on Red Dead Redemption 2</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jan 2025 09:22:10 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Main Character</title>
+      <link>//localhost:1313/tags/main-character/</link>
+      <pubDate>Tue, 14 Jan 2025 09:22:10 +0800</pubDate>
+      <guid>//localhost:1313/tags/main-character/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Leader</title>
+      <link>//localhost:1313/tags/leader/</link>
+      <pubDate>Tue, 14 Jan 2025 09:01:10 +0800</pubDate>
+      <guid>//localhost:1313/tags/leader/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Side/Main Character</title>
+      <link>//localhost:1313/tags/side/main-character/</link>
+      <pubDate>Tue, 14 Jan 2025 09:00:10 +0800</pubDate>
+      <guid>//localhost:1313/tags/side/main-character/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Co-Leader</title>
+      <link>//localhost:1313/tags/co-leader/</link>
+      <pubDate>Tue, 14 Jan 2025 08:59:11 +0800</pubDate>
+      <guid>//localhost:1313/tags/co-leader/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Member</title>
+      <link>//localhost:1313/tags/member/</link>
+      <pubDate>Tue, 14 Jan 2025 08:59:10 +0800</pubDate>
+      <guid>//localhost:1313/tags/member/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Member/Priest</title>
+      <link>//localhost:1313/tags/member/priest/</link>
+      <pubDate>Sun, 12 Jan 2025 09:21:09 +0800</pubDate>
+      <guid>//localhost:1313/tags/member/priest/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
